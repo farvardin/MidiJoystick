@@ -3,6 +3,11 @@
 
 This version was made to emulate "Sky children of the light" controller option
 
+Use qmidiroute and open sky_qmidiroute.qmr to reroute the correct notes.
+
+you can use it on  https://specy.github.io/skyMusic or with any synth. Note off are not supported (instruments with long sustain will sound odd)
+
+
 WARNING: THIS IS NOT COMPATIBLE WITH GAMBIT 4.2.X But feel free to hack away anyways.
 
  MidiJoystick is a client for the [[http://www.jackaudio.org/][Jack Audio Connection Kit]] on Linux (and maybe other unixlikes) which lets you use your joystick as a midicontroller.
